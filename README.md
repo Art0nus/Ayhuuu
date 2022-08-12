@@ -19,7 +19,7 @@ pip install bitches
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,bash,git,linux," width="55%" height="55%"/>
+    <img src="https://skillicons.dev/icons?i=,bash,linux," width="55%" height="55%"/>
   </a>
 </p>
 
