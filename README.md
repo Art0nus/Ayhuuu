@@ -4,7 +4,7 @@
  </p>
 
 
-![](https://exploringbits.com/wp-content/uploads/2022/01/discord-banner-1.gif)
+<p align="center"><img src="https://count.getloli.com/get/@:addi00000" alt=":addi00000" /></p>
 
 
 
