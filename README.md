@@ -4,6 +4,7 @@
  </p>
 
 
+![](https://exploringbits.com/wp-content/uploads/2022/01/discord-banner-1.gif)
 
 
 
