@@ -15,7 +15,10 @@ pip install bitches
 
 
 
-
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,bash,git,md,linux,vim" width="55%" height="55%"/>
+  </a>
+</p>
 
 
 
