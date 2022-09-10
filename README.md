@@ -10,7 +10,7 @@ pip install bitches
  
 
 <p align="center">
-<p align="center"><img src="https://3.bp.blogspot.com/-tvDu4jdSrPQ/WcHPnPPcseI/AAAAAAAA77E/CeKEWIDh5ZYJrnHMAsNCn364YSx5yIbDACKgBGAs/s1600/Omake%2BGif%2BAnime%2B-%2BNew%2BGame%2521%2521%2B-%2BEpisode%2B11%2B-%2BNene%2BBig%2BHappy%2BSmile.gif" /></p>
+<p align="center"><img src="" /></p>
 
 
 
