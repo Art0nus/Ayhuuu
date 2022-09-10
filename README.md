@@ -4,7 +4,7 @@
  </p>
 
 ```sh-session
-pip install bitches 4444
+pip install bitches 
 ```
 
  
